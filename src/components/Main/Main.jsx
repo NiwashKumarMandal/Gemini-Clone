@@ -32,7 +32,7 @@ const Main = () => {
         ? <>
         <div className="greet">
           <p>
-            <span>Hello, Niwash.</span>
+            <span>Hi, There.</span>
           </p>
           <p>How can I help you today?</p>
         </div>
