@@ -2,7 +2,7 @@
 
 # Gemini Clone
 ## Dive into the project
-[<img src="./src/assets/gemini_icon.png" width="65px" alt="gemini-icon">](https://your-vercel-deployment-link.com)<span><em>(Tap on gemini icon to view the project)</em></span>
+[<img src="./src/assets/gemini_icon.png" width="65px" alt="gemini-icon">](https://gemini-clone-phi-pink.vercel.app/)<span><em>(Tap on gemini icon to view the project)</em></span>
 
 ## Overview
 The Gemini Clone project showcases the integration of advanced AI capabilities into a modern web application using HTML, CSS, JavaScript, and React, along with the Google Gemini API. This project creates an interactive and intelligent web application that generates dynamic content based on user inputs, providing a personalized and engaging experience.
