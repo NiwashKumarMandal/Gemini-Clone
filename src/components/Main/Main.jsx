@@ -16,7 +16,7 @@ const Main = () => {
   const title = [
     "Suggest beautiful places to see on an upcoming road trip",
     "Briefly summarize this concept :urban planning",
-    "Brainstorm team bonding activities for our work retreat",
+    "Give me tips to help care for a tricky plant",
     "Improve the readability of the following code",
   ];
 
