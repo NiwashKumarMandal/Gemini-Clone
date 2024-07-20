@@ -36,6 +36,15 @@ Through the Gemini Clone project, I gained valuable insights into various aspect
 - **Responsive Design**: Improved techniques for creating responsive web designs that ensure seamless user experiences across different devices and screen sizes.
 - **React Development**: Utilized React's component-based architecture to build a scalable and maintainable application.
 
+## Future Work
+
+- **Enhanced Input Modalities**:
+  - Implement image processing capabilities and voice input integration.
+
+- **Profile Management**:
+  - Develop a comprehensive profile management system to allow users to create, update, and manage their profiles.
+  - Include features for personalized settings, preferences, and data management to enhance user engagement and customization.
+
 
 
 ## Contribution
